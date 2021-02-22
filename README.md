@@ -20,9 +20,9 @@ to put from your end to finish your work).
 2. ```$ pip install -r requirements.txt -t . ```
 (This installs all the python package 
 dependencies required to run this code)
-3. Save and run the application using the command
+3. Go to test1.py file and update with your excel file path
+4. Run the application using the command
 ```python test1.py```
-4. Find for the output excel file in the same directory where handler.py exists
 
 -----------------------------------------------
 
