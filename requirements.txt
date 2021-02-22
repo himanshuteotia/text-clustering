@@ -1,0 +1,11 @@
+numpy
+scipy
+boto3
+Flask
+nltk
+pandas
+scikit-learn
+gensim
+transformers
+numba
+tomotopy==0.10.0
